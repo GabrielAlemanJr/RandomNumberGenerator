@@ -1,1 +1,1 @@
-"# RandomNumberGenerator" 
+Takes two integers, a minimum and a maximum value, as inputs from the user and returns a randomly integer that is between the two inputs.
